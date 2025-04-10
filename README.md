@@ -1,11 +1,11 @@
- <h1 align="center">Hi 👋, I'm Abdul Razzaq</h1>
+<h1 align="center">Hi 👋, I'm Abdul Razzaq</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: abdulrazzaq1140@gmail.com
-- ⚡ Fun fact: I'm comming to teen
-  
+- 🔭 I’m currently working on Flutter  
+- 🌱 I’m currently learning Backend  
+- 💬 Ask me anything about Flutter  
+- 📫 How to reach me: abdulrazzaq1140@gmail.com  
+- ⚡ Fun fact: I'm comming to teen  
+
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/razzaq1140">
@@ -25,10 +25,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![Abdul Razzaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=razzaq1140&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razzaq1140&theme=dark)
 
 <br>
 ⭐️ From [razzaq1140](https://github.com/razzaq1140)
